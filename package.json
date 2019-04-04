@@ -115,5 +115,11 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "antd": "^3.15.2",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
+    "react-router-dom": "^5.0.0"
   }
 }

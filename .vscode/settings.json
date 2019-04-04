@@ -3,5 +3,7 @@
     "activityBar.background": "#082F52",
     "titleBar.activeBackground": "#0B4172",
     "titleBar.activeForeground": "#F9FCFE"
-  }
+  },
+  "prettier.jsxBracketSameLine": true,
+  "prettier.printWidth": 100,
 }
